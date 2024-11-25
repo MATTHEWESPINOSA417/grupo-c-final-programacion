@@ -1,5 +1,5 @@
-Fa
-La
-Si
-Sol
-Do
+Fa (349.23 Hz)
+Sol (392.0 Hz)
+La (440.0 Hz)
+Si (493.88 Hz)
+Do (261.63 Hz)
